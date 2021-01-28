@@ -6,12 +6,16 @@ This repository contains all files to replicate the empirical analysis of the pa
 Please refer to FLFP_reg for the cross-sectional analysis:
 
 .xlxs Raw OECD Data
+
 .do STATA code
+
 .dta STATA Dataset
 
 
 Please refer to FLFP_timeseries for the time series analysis:
 
 .xlxs Raw OECD Data
+
 .do STATA code
+
 .dta STATA Dataset
